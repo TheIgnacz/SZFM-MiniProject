@@ -18,3 +18,14 @@ Igényelt üzleti folyamatok
 -Online megjelenés 
 -Viccek feltöltése adminként bejelentkezés után 
 -Viccek likeolása bejelentkezéssel/bejelentkezés nélkül
+-Lehetőség viccek hozzáadására a "Kedvelt(kedvenc) viccekhez", ahol megtalálhatja a kedvenc tartalmát. 
+-Friss tartalom minden nap. „A nap vicce”
+
+Követelmények listája 
+------
+F1 Könnyen kezelhető 
+F2 Viccek szűrése kategóriák szerint 
+F3 Kedvenc viccek tárolása 
+F4 Keresőmotor megvalósítása 
+F5 Gyerekbarát tartalom szűrhetősége 
+F6 Statisztika – azaz a viccekre beérkező like-ok/pontok(lehet akár 5 csillagos értékelés is) kiértékelése.
