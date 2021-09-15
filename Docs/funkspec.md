@@ -21,3 +21,9 @@ Követelménylista
 |F4| A gyerekek számára külön felület kell létrehozni ahol gyerekbarát tartalmak jelennek meg.|
 |f5| A egyes vicceket like-olni kell leheseen valamint az egyes viccekhez tartozó like-ok számát is fel kell tüntetni. A like-olt viccek kerüljenek a kedvenc viccek közé.|
 
+Igényelt üzleti folyamatok
+----
+
+- A oldalra való belépést követően => a vicc kategóra kiválasztása => a kategóriába tartozó viccek megjelenítése
+- Egy adott  vicc like-olása
+- A oldalra való belépést követően => a kedvenc viccek megtekíntése
