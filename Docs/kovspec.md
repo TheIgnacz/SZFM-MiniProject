@@ -41,3 +41,20 @@ F3 Kedvenc viccek tárolása
 F4 Keresőmotor megvalósítása 
 F5 Gyerekbarát tartalom szűrhetősége 
 F6 Statisztika – azaz a viccekre beérkező like-ok/pontok(lehet akár 5 csillagos értékelés is) kiértékelése.
+
+Fogalomtár
+-----
+
+-Kategória:  Egynemű csoport, amely személyekből, tárgyakból vagy dolgokból áll. Minden ilyen csoport hasonló jellemzők vagy típus alapján különválasztható egy másiktól.
+
+-Vicc: A vicc „rendszerint ismeretlen szerzőtől származó, csattanóval végződő, rövid, nevettető, kitalált történet, gyakran párbeszédes alakban”.
+
+-Rendőr vicc: Olyan vicc melynek egyik szereplője rendőr.
+
+-Gyerek vicc: Olyan vicc melynek egyik szereplője egy gyerek.
+
+-Állatos vicc: Olyan vicc melynek egyik szereplője vagy tárgya egy állat.
+
+-Skót vicc: Olyan vicc melynek egyik szereplője skót.
+
+-GDPR:	A GDPR a General Data Protection Regulation kezdőbetűiből képzett mozaikszó, magyarul általános adatvédelmi rendelet. 2018 májusától lépett életbe az EU 28 tagállamában, így Magyarországon is, és alapjaiban forgatja fel a korábbi adatvédelmi rutint. Nem véletlen, hogy a legszigorúbb rendeletek között tartják számon: a NAIH (Nemzeti Adatvédelmi Hivatal) akár 20 millió euróig (6 milliárd Ft) terjedő büntetést is kiszabhat azokra, akik nem tartják be az adatvédelmi szabályokat.
