@@ -9,6 +9,12 @@ Vágyálomrendszer leírása
 
 A projekt célja hogy egy olyan weboldalt hozzon létre, ahova az emberek feltölthetnek vicceket név vagy névtelenül, és ezeket mások megtekinthetik. Cél lenne hogy az emberek ezeket a vicceket kategóránként tekinthesség meg, és értékeljék like rendszerrel. A rendszerben lenne admin felület is, ahol moderálni lehet az oldalt.
 
+Funkcionális követelmények
+-----
+
+A kezelő felületnek jól átláthatónak, letisztultnak és esztétikusnak kell lennie. A felhasználónak tudnia kell kategóriák közül választania, hogy milyen kategóriájú viccet akar olvasni. Megtalálhatóak kell legyenek az állatos viccek,  gyerek viccek, rendőr viccek és skót viccek kategóriák. Minden kategóriában legalább 3 db vicc szerepeljen.
+
+
 A rendszerre vonatkozó szabályok 
 --------
 A web felület szabványos eszközökkel készüljön, html/css/javascript. A képek jpeg és png formátumúak lehetnek. A felhasználókat azonosító web oldalak esetében szükséges jogszabályokat be kell tartani: GDPR, ...
