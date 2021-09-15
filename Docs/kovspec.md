@@ -19,6 +19,12 @@ A rendszerre vonatkozó szabályok
 --------
 A web felület szabványos eszközökkel készüljön, html/css/javascript. A képek jpeg és png formátumúak lehetnek. A felhasználókat azonosító web oldalak esetében szükséges jogszabályokat be kell tartani: GDPR, ...
 
+Jelenlegi üzleti folyamatok modellje
+-------
+
+-A vicceket jelenleg külömböző weboldalakon illetve vicc kötetekben találjuk meg, ami elég hosszadalmas idő. 
+-Valamint a viccek megtalálása után a kategóriánkénti keresés is nehézkes feladat, főleg a papír alapú vicc kötetekben. 
+
 Igényelt üzleti folyamatok 
 ---------
 -Online megjelenés 
