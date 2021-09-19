@@ -1,28 +1,60 @@
 # Rendszerterv
 
-A rendszer célja
+A rendszer cï¿½lja
 ---
 
-Jelenleg a interneten és vicc könyvekben rengeteg jó vicc megtalálható, ám ezek megtalálása nem feltétlenül könnyû folyamat. A cél egy olyan weboldal létrehozása amegy bárki számára elérhetõ a neten. A felhasználó kategóriánként tud keresni a viccek között, like-olni tudja az egyes vicceket melyek ekkor bekerülnek a felhasználó kedvencei közé melyeket szintén meg tud nézni. A viccek közti bõngészéskor a felhasználó látja, hogy egy vicc hány like-ot kapott.
+Jelenleg a interneten ï¿½s vicc kï¿½nyvekben rengeteg jï¿½ vicc megtalï¿½lhatï¿½, ï¿½m ezek megtalï¿½lï¿½sa nem feltï¿½tlenï¿½l kï¿½nnyï¿½ folyamat. A cï¿½l egy olyan weboldal lï¿½trehozï¿½sa amegy bï¿½rki szï¿½mï¿½ra elï¿½rhetï¿½ a neten. A felhasznï¿½lï¿½ kategï¿½riï¿½nkï¿½nt tud keresni a viccek kï¿½zï¿½tt, like-olni tudja az egyes vicceket melyek ekkor bekerï¿½lnek a felhasznï¿½lï¿½ kedvencei kï¿½zï¿½ melyeket szintï¿½n meg tud nï¿½zni. A viccek kï¿½zti bï¿½ngï¿½szï¿½skor a felhasznï¿½lï¿½ lï¿½tja, hogy egy vicc hï¿½ny like-ot kapott.
 
-Követelmények
+Projektterv
+-----------
+
+### ProjektszerepkÃ¶rÃ¶k, felelÅ‘sÃ©gek:
+Scrum master:
+Product owner: IgnÃ¡cz MÃ¡tÃ©
+
+### ProjektmunkÃ¡sok Ã©s felelÅ‘sÃ©gek:
+#### Backend:
+GyÃ¶rgy DÃ¡vid, GyÃ¶rke ZsÃ³fia, IgnÃ¡cz MÃ¡tÃ©, Olasz Zsolt. Feladatuk funkciÃ³k lÃ©trehozÃ¡sa, adatok tÃ¡rolÃ¡sa.
+
+#### Frontend:
+GyÃ¶rgy DÃ¡vid, GyÃ¶rke ZsÃ³fia, IgnÃ¡cz MÃ¡tÃ©, Olasz Zsolt. Feladatuk a weboldal elemeinek megejelnÃ­tÃ©se.
+
+### Ãœtemterv:
+| FunkciÃ³/Story | Feladat/Task | PrioritÃ¡s | BecslÃ©s | AktuÃ¡lis becslÃ©s | Eltelt idÅ‘ | HÃ¡tralÃ©vÅ‘ idÅ‘ | 
+| -------------- | ----------- | --------- | ------- | ---------------- | ---------- | ------------- |
+| KÃ¶vetelmÃ©ny specifikÃ¡ciÃ³ | | 0 | 8 | 8 | 7 | 1 |
+| FunkcionÃ¡lis specifikÃ¡ciÃ³ | | 0 | 8 | 8 | 7 | 1 |
+| Rendszerterv |  | 0 | 8 | 8 | 7 | 1 | 
+| Backend | FunckciÃ³k/AdattÃ¡rolÃ¡s | 2 | 8 | 8 | 0 | 8 |
+| Frontend |  MegjelenÃ­tÃ©s | 2 | 8 | 8 | 0 | 8 |
+
+### MÃ©rfÃ¶ldkÃ¶vek:
+ElsÅ‘ heti munka bemutatÃ¡sa elkÃ©szÃ¼lt.
+
+Ãœzleti folyamatok modellje
+--------------------------
+
+![](./Resources/Ã¼fm.PNG)
+
+
+Kï¿½vetelmï¿½nyek
 ---
-- Viccek tárolása.
-- Viccek kategóriába rendezése.
-- Viccek like-jainak számontartása.
-- Felhasználók számontartása.
-- A kedven viccek számontartása felhasználónként.
-- A GDPR-nek való megfelelés.
+- Viccek tï¿½rolï¿½sa.
+- Viccek kategï¿½riï¿½ba rendezï¿½se.
+- Viccek like-jainak szï¿½montartï¿½sa.
+- Felhasznï¿½lï¿½k szï¿½montartï¿½sa.
+- A kedven viccek szï¿½montartï¿½sa felhasznï¿½lï¿½nkï¿½nt.
+- A GDPR-nek valï¿½ megfelelï¿½s.
 
 Tesztterv
 ---
 
-A tesztelések célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenõrzése, a rendszer által megvalósított üzleti szolgáltatások verifikálása.
+A tesztelï¿½sek cï¿½lja a rendszer ï¿½s komponensei funkcionalitï¿½sï¿½nak teljes vizsgï¿½lata, ellenï¿½rzï¿½se, a rendszer ï¿½ltal megvalï¿½sï¿½tott ï¿½zleti szolgï¿½ltatï¿½sok verifikï¿½lï¿½sa.
 
 **Unite teszt:**
 
-Ahol csak lehetséges, szükséges már a fejlesztési idõ alatt is tesztelni, hogy a metódusok megfelelõen mûködnek-e. Ezért a metódusok megfelelõ mûködésének biztosítására mindegyikhez írni kell Unit teszteket, a minél nagyobb kódlefedettséget szem elõtt tartva. A metódusok akkor vannak kész, ha a tesztesetek hiba nélkül lefutnak az egyes metódusokon.
+Ahol csak lehetsï¿½ges, szï¿½ksï¿½ges mï¿½r a fejlesztï¿½si idï¿½ alatt is tesztelni, hogy a metï¿½dusok megfelelï¿½en mï¿½kï¿½dnek-e. Ezï¿½rt a metï¿½dusok megfelelï¿½ mï¿½kï¿½dï¿½sï¿½nek biztosï¿½tï¿½sï¿½ra mindegyikhez ï¿½rni kell Unit teszteket, a minï¿½l nagyobb kï¿½dlefedettsï¿½get szem elï¿½tt tartva. A metï¿½dusok akkor vannak kï¿½sz, ha a tesztesetek hiba nï¿½lkï¿½l lefutnak az egyes metï¿½dusokon.
 
 **Alfa teszt:**
 
-A teszt elsõdleges célja: az eddig meglévõ funkcióknak a különbözõ böngészõkkel, és androidokkal való kompatibilitásának tesztelése. A tesztet a fejlesztõk végzik. Az eljárás sikeres, ha különbözõ böngészõkben is megfelelõen mûködnek a különbözõ funkciók.  A teszt idõtartama egy hét.
+A teszt elsï¿½dleges cï¿½lja: az eddig meglï¿½vï¿½ funkciï¿½knak a kï¿½lï¿½nbï¿½zï¿½ bï¿½ngï¿½szï¿½kkel, ï¿½s androidokkal valï¿½ kompatibilitï¿½sï¿½nak tesztelï¿½se. A tesztet a fejlesztï¿½k vï¿½gzik. Az eljï¿½rï¿½s sikeres, ha kï¿½lï¿½nbï¿½zï¿½ bï¿½ngï¿½szï¿½kben is megfelelï¿½en mï¿½kï¿½dnek a kï¿½lï¿½nbï¿½zï¿½ funkciï¿½k.  A teszt idï¿½tartama egy hï¿½t.
