@@ -1,9 +1,9 @@
 # Rendszerterv
 
-A rendszer c�lja
+A rendszer célja
 ---
 
-Jelenleg a interneten �s vicc k�nyvekben rengeteg j� vicc megtal�lhat�, �m ezek megtal�l�sa nem felt�tlen�l k�nny� folyamat. A c�l egy olyan weboldal l�trehoz�sa amegy b�rki sz�m�ra el�rhet� a neten. A felhaszn�l� kateg�ri�nk�nt tud keresni a viccek k�z�tt, like-olni tudja az egyes vicceket melyek ekkor beker�lnek a felhaszn�l� kedvencei k�z� melyeket szint�n meg tud n�zni. A viccek k�zti b�ng�sz�skor a felhaszn�l� l�tja, hogy egy vicc h�ny like-ot kapott.
+Jelenleg a interneten és vicc könyvekben rengeteg jó vicc megtalálható, ám ezek megtalálása nem feltétlenül könnyű folyamat. A cél egy olyan weboldal létrehozása amegy bárki számára elérhető a neten. A felhasználó kategóriánként tud keresni a viccek között, like-olni tudja az egyes vicceket melyek ekkor bekerülnek a felhasználó kedvencei közé melyeket szintén meg tud nézni. A viccek közti bőngészéskor a felhasználó látja, hogy egy vicc hány like-ot kapott.
 
 Projektterv
 -----------
@@ -37,24 +37,24 @@ Első heti munka bemutatása elkészült.
 ![](./Resources/üfm.PNG)
 
 
-K�vetelm�nyek
+Követelmények
 ---
-- Viccek t�rol�sa.
-- Viccek kateg�ri�ba rendez�se.
-- Viccek like-jainak sz�montart�sa.
-- Felhaszn�l�k sz�montart�sa.
-- A kedven viccek sz�montart�sa felhaszn�l�nk�nt.
-- A GDPR-nek val� megfelel�s.
+- Viccek tárolása.
+- Viccek kategóriába rendezése.
+- Viccek like-jainak számontartása.
+- Felhasználók számontartása.
+- A kedven viccek számontartása felhasználónként.
+- A GDPR-nek való megfelelés.
 
 Tesztterv
 ---
 
-A tesztel�sek c�lja a rendszer �s komponensei funkcionalit�s�nak teljes vizsg�lata, ellen�rz�se, a rendszer �ltal megval�s�tott �zleti szolg�ltat�sok verifik�l�sa.
+A tesztelések célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenőrzése, a rendszer által megvalósított üzleti szolgáltatások verifikálása.
 
 **Unite teszt:**
 
-Ahol csak lehets�ges, sz�ks�ges m�r a fejleszt�si id� alatt is tesztelni, hogy a met�dusok megfelel�en m�k�dnek-e. Ez�rt a met�dusok megfelel� m�k�d�s�nek biztos�t�s�ra mindegyikhez �rni kell Unit teszteket, a min�l nagyobb k�dlefedetts�get szem el�tt tartva. A met�dusok akkor vannak k�sz, ha a tesztesetek hiba n�lk�l lefutnak az egyes met�dusokon.
+Ahol csak lehetséges, szükséges már a fejlesztési idő alatt is tesztelni, hogy a metódusok megfelelően működnek-e. Ezért a metódusok megfelelő működésének biztosítására mindegyikhez írni kell Unit teszteket, a minél nagyobb kódlefedettséget szem előtt tartva. A metódusok akkor vannak kész, ha a tesztesetek hiba nélkül lefutnak az egyes metódusokon.
 
 **Alfa teszt:**
 
-A teszt els�dleges c�lja: az eddig megl�v� funkci�knak a k�l�nb�z� b�ng�sz�kkel, �s androidokkal val� kompatibilit�s�nak tesztel�se. A tesztet a fejleszt�k v�gzik. Az elj�r�s sikeres, ha k�l�nb�z� b�ng�sz�kben is megfelel�en m�k�dnek a k�l�nb�z� funkci�k.  A teszt id�tartama egy h�t.
+A teszt elsődleges célja: az eddig meglévő funkcióknak a különböző böngészőkkel, és androidokkal való kompatibilitásának tesztelése. A tesztet a fejlesztők végzik. Az eljárás sikeres, ha különböző böngészőkben is megfelelően működnek a különböző funkciók.  A teszt időtartama egy hét.
