@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="alap.css">
+    <script>
+        function ido(){
+          var most = new Date();
+          var ora = most.getHours();
+          var perc = most.getMinutes();
+          var mp = most.getSeconds();
+          var idostr = ora;
+          idostr += ((perc < 10) ? ":0" : ":") + perc;   
+          idostr += (((mp < 10 ) ? ":0" : ":") + mp);
+          document.querySelector('.ora').innerText = idostr;
+          setTimeout("ido()",1000);
+        }
+        function like(db){
+            db++;
+            return db;
+        }
+    </script>
+</head>
+<body onload="ido();">
+    <table class="table">
+        <tbody>
+          <tr>
+            <td class="ido"><div class="ora"></div>
+            </td>
+            <td><h1>Viccek</h1></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <div class="kategoriak">  
+                <div>Témák:</div>
+                <div><ul>
+                    <li>Rendőr viccek</li>
+                    <li>Gyerek viccek</li>
+                    <li>Állatos viccek</li>
+                    <li>Skót viccek</li>
+                </ul></div>
+              </div>
+            </td>
+            <td><div id="vicct">
+                <script>
+                  fetch("data.json")
+                  .then(response => response.json())
+                  .then(function (data) {
+                    for(var i in data){
+                      var div = document.createElement('div');
+                      var parent = document.getElementById("vicct");
+                      parent.appendChild(div)
+                      div.className = "vicc"
+                      div.innerHTML = data[i].text; 
+                      var button = document.createElement('input');
+                      button.type = "button";
+                      button.value = "Like " + data[i].likes;
+                      button.className = "likeb"
+                      button.onclick = function() {data[i].likes = like(data[i].likes)}
+                      console.log(data[i].likes);
+                      parent.appendChild(button)
+                      }
+                  })
+                </script>
+            </div></td>
+            <td></td>
+          </tr>
+        </tbody>
+        </table>
+</body>
+</html>
