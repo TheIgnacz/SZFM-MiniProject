@@ -1,9 +1,10 @@
 function kep(){
     var kep = document.urlap.hatter.value
-    console.log(kep)
-    if (kep=="ejszaka.jpg"){ document.body.style.color = "white"}
-    kep = "url(kepek/"+kep+")"
-    document.body.style.backgroundImage = kep
+    if (kep=="ejszaka.jpg") document.body.style.color = "white"
+    else document.body.style.color = "black"
+    kep = "url(kepek/"+kep+")";
+    document.body.style.backgroundImage = kep;
+    return kep;
     }
 function ido(){
     var most = new Date();
@@ -29,3 +30,7 @@ function viccek(viccdata){
         };
         })
 }
+
+test('kep', () => {
+    expect(kep().toBe("ejszaka.jpg"))
+})
