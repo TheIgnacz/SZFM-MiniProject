@@ -13,16 +13,6 @@
           document.querySelector('.ora').innerText = idostr;
           setTimeout("ido()",1000);
         }
-        function save() {
-          
-        }
-        function likeing(ele){
-            console.log(ele)
-            var count = ele.childNodes[1].innerHTML
-            count++;
-            ele.childNodes[1].innerHTML = count
-            console.log(count)
-        }
     </script>
 </head>
 <body onload="ido();">
@@ -57,18 +47,6 @@
                       parent.appendChild(div)
                       div.className = "vicc"
                       div.innerHTML = data[i].text; 
-                      var button = document.createElement('button');
-                      var like = document.createElement("span")
-                      button.appendChild(like);
-                      button.className = "likeb"
-                      like.innerHTML = "Like "
-                      var count = document.createElement("span")
-                      button.appendChild(count);
-                      count.innerHTML = data[i].likes;
-                      count.id = "count";
-                      button.onclick = function() {likeing(this)}
-                      console.log(data[i].likes);
-                      parent.appendChild(button)
                       }
                   })
                 </script>
