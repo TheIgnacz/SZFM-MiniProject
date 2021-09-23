@@ -30,7 +30,3 @@ function viccek(viccdata){
         };
         })
 }
-
-test('kep', () => {
-    expect(kep().toBe("ejszaka.jpg"))
-})
