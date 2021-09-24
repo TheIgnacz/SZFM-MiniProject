@@ -9,15 +9,16 @@
           <tr>
             <td class="ido"><div class="ora"></div>
             </td>
-            <td><h1>Kezdőlap</h1></td>
+            <td><h1 id="cim">Kezdőlap</h1></td>
             <td></td>
           </tr>
           <tr>
             <td class="fent">
-              <div class="kategoriak">  
+              <div class="kategoriak">
+                <div class="kezdo" onclick="viccek('viccek/kezdolap.json', 'Kezdőlap')">Kezdőlap</div>  
                 <div>Témák:</div>
                 <div><ul>
-                    <li>Rendőr viccek</li>
+                    <li onclick="viccek('viccek/rendorviccek.json', 'Rendőr viccek')">Rendőr viccek</li>
                     <li>Gyerek viccek</li>
                     <li>Állatos viccek</li>
                     <li>Skót viccek</li>
@@ -26,7 +27,7 @@
             </td>
             <td><div id="vicct">
                 <script>
-                  viccek("viccek/kezdolap.json")
+                  viccek('viccek/kezdolap.json', 'Kezdőlap')
                 </script>
             </div></td>
             <td class="fent"><div class="hatter">

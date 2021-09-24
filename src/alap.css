@@ -50,6 +50,10 @@ td.ido{
     top:5em;
 }
 
+.kezdo{
+    margin-bottom: 1em;
+}
+
 .vicct{
     display: flex;
     margin: 2em;

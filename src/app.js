@@ -17,16 +17,23 @@ function ido(){
     document.querySelector('.ora').innerText = idostr;
     setTimeout("ido()",1000);
 }
-function viccek(viccdata){
+function removeAllChildNodes(parent) {
+    while (parent.firstChild) {
+        parent.removeChild(parent.firstChild);
+    }
+}
+function viccek(viccdata, cim){
+    document.getElementById('cim').innerHTML =cim
     fetch(viccdata)
         .then(response => response.json())
         .then(function (data) {
-        for(var i in data){
-            var div = document.createElement('div');
             var parent = document.getElementById("vicct");
-            parent.appendChild(div)
-            div.className = "vicc";
-            div.innerHTML = data[i].text; 
+            removeAllChildNodes(parent)
+            for(var i in data){
+                var div = document.createElement('div');
+                parent.appendChild(div)
+                div.className = "vicc";
+                div.innerHTML = data[i].text; 
         };
         })
 }
