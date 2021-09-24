@@ -8,23 +8,33 @@ body{
     padding: 0;
     height: 100vh;
     width: 100%;
-    border: solid medium black;
+    border: none;
     border-collapse: collapse;
 }
 
-tr, td {
-    border: medium solid black;
+td.fent {
+    vertical-align: top;
 }
+
+
 tr:first-child {
     height: 20vh;
 }
 
 tr td:first-child, tr td:last-child{
     width: 20%;
+    border-left: medium solid  black;
+    border-right: medium solid black;
 }
 
 h1{
     text-align: center;
+}
+
+td.ido{
+    
+    position: sticky;
+    top:0em;
 }
 
 .ora {
@@ -33,11 +43,11 @@ h1{
 }
 
 .kategoriak, .hatter{
-    position: sticky;
     font-size: 2.5em;
     margin: 1em;
     position: relative;
-    top:0  
+    position: sticky;
+    top:5em;
 }
 
 .vicct{
