@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+}
+.table {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+}
+
+td.fent {
+    vertical-align: top;
+}
+
+
+tr:first-child {
+    height: 20vh;
+}
+
+tr td:first-child, tr td:last-child{
+    width: 20%;
+    border-left: medium solid  black;
+    border-right: medium solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+td.ido{
+    
+    position: sticky;
+    top:0em;
+}
+
+.ora {
+    font-size: 5em;
+    text-align: center;
+}
+
+.kategoriak, .hatter{
+    font-size: 2.5em;
+    margin: 1em;
+    position: relative;
+    position: sticky;
+    top:5em;
+}
+
+.kezdo{
+    margin-bottom: 1em;
+}
+
+.vicct{
+    display: flex;
+    margin: 2em;
+    padding-right: 15em;
+    flex-direction: column;
+}
+
+.vicc{
+    margin: 2em;
+    font-size: 1.5em;
+}
