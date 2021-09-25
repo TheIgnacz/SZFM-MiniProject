@@ -46,6 +46,17 @@ Követelmények
 - A kedven viccek számontartása felhasználónként.
 - A GDPR-nek való megfelelés.
 
+Adatbázis terv
+---
+A viccek tárolása JSON állományokban történik, innen kerülnek beolvasásra a HTML fájlban.
+
+Fizikai környezet
+---
+- A viccportál HTML formátumban készült webes felületre, ezáltal a platform operációs rendszere bármi lehet.
+- Nincsenek megvásárolt komponenseink
+- Fejlesző eszközök:
+	- Visual Studio Code Live Server bővítménnyel
+
 Tesztterv
 ---
 
