@@ -50,12 +50,24 @@ Adatbázis terv
 ---
 A viccek tárolása JSON állományokban történik, innen kerülnek beolvasásra a HTML fájlban.
 
+Funkcionális terv
+---
+Egy olyan weboldalt fejlesztünk, ami segít az embereknek gyors kikapcsolódást nyújtani, egy pontozó rendszer segítségével megtekinthetnek új népszerű vicceket, vagy rendszezhetnek kevésbé nepszerüek szerint. Mások igénybe vehetik, hogy a saját vicceiket osszák meg másokkal. Az oldal ingyenes lesz, és nem fog igényelni regisztrációt.
+
 Fizikai környezet
 ---
 - A viccportál HTML formátumban készült webes felületre, ezáltal a platform operációs rendszere bármi lehet.
 - Nincsenek megvásárolt komponenseink
 - Fejlesző eszközök:
 	- Visual Studio Code Live Server bővítménnyel
+
+Telepítési terv
+---
+A rendszer nem igényel semmiféle telepítést, böngészőből futtatható a viccportál.
+
+Karbantartási terv
+---
+A szoftveren havonta tervezünk karbantartásokat végezni, ezen felül bármilyen felhasználói hibajelentést azonnali helyreállítás követ. A szoftveren évente nagyobb frissítések, módosítások várhatók.
 
 Tesztterv
 ---
