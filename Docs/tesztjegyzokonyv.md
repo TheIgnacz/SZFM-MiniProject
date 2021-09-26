@@ -63,7 +63,7 @@ Valós viselkedés:
 Elvárt viselkedés:
 - A lenyílómenüből kiválasztva az éjszaka hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A éjszaka háttér megfeleően betölt alapértelmezett háttérként illetve a legördülő menüből kiválasztva majd a beállít gomra kattintva is megfelelően jelenik meg.
-- Google Chrome Verzió:
+- Google Chrome Verzió: A lenyílómenüből kiválasztva az éjszaka hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 
 Tenger háttér
 ------
@@ -71,7 +71,7 @@ Tenger háttér
 Elvárt viselkedés:
 - A lenyílómenüből kiválasztva az tenger hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A tenger háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik
-- Google Chrome Verzió:
+- Google Chrome Verzió: A tenger háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik.
 
 Hegyek háttér
 ------
@@ -79,7 +79,7 @@ Hegyek háttér
 Elvárt viselkedés: 
 - A lenyílómenüből kiválasztva az hegyek hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A hegyek háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik
-- Google Chrome Verzió:
+- Google Chrome Verzió: A hegyek háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik.
 
 Dombok háttér
 ------
@@ -87,4 +87,4 @@ Dombok háttér
 Elvárt viselkedés:
 - A lenyílómenüből kiválasztva az dombok hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A dombok háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik
-- Google Chrome Verzió:
+- Google Chrome Verzió: A dombok háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik.
