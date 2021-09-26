@@ -23,7 +23,22 @@ Elvárt viselkedés: A gyerek viccek szövegre kattintva az oldal betölti a gye
 
 Elvárt viselkedés: A skót viccek szövegre kattintva az oldal betölti a skotviccek.json tartalmát, és megváltoztatja az oldal címét skót viccekre.
 
-Háttér
+Éjszaka háttér
 ------
 
-Elvárt viselkedés: A lenyílómenüből kiválasztva a megfelelő hátteret és a beállít gombra kattintva a háttér megváltozik.
+Elvárt viselkedés: A lenyílómenüből kiválasztva az éjszaka hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
+Tenger háttér
+------
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az tenger hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
+Hegyek háttér
+------
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az hegyek hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
+Dombok háttér
+------
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az dombok hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
