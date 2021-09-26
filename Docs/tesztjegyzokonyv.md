@@ -6,6 +6,7 @@ Elvárt viselkedés: Az óra a pontos időt mutatja, és folyamatosan frissül.
 
 Valós viselkedés: 
 - Microsoft Edge Verzió: 94.0.992.31: Az oldal a pontos időt mutatja és megfelelően frissül az elvártaknak megfelelően.
+- Google Chrome Verzió: 94.0.4606.61: Az oldal a pontos időt mutatja és megfelelően frissül az elvártaknak megfelelően.
 
 Kezdőlap
 --------
