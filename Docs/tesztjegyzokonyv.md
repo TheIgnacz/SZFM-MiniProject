@@ -35,7 +35,7 @@ Elvárt viselkedés: A gyerek viccek szövegre kattintva az oldal betölti a gye
 Valós viselkedés:
 - A gyerek viccek szövegre kattintva az oldal az elvárt módon betölti a gyerek vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: A gyerek viccek szövegre kattintva a megfelelő tartalom jelenik meg.
-- Google Chrome Verzió:
+- Google Chrome Verzió: A gyerek viccek szövegre kattintva az oldal az elvárt módon betölti a gyerek vicceket és megváltoztatja az oldal címét a megfelelőre.
 
 Állatos viccek
 --------------
