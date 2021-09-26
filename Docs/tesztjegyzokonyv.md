@@ -38,8 +38,9 @@ Valós viselkedés:
 
 Elvárt viselkedés: Az állatos viccek szövegre kattintva az oldal betölti a allatosviccek.json tartalmát, és megváltoztatja az oldal címét állatos viccekre.
 
-Valós viselkedés: A állatos viccek szövegre kattintva az oldal az elvárt módon betölti a állatos vicceket és megváltoztatja az oldal címét a megfelelőre.
-
+Valós viselkedés:
+- A állatos viccek szövegre kattintva az oldal az elvárt módon betölti a állatos vicceket és megváltoztatja az oldal címét a megfelelőre.
+- Microsoft Edge Verzió: 94.0.992.31: Az állatos viccek szövegre kattintva a megfelelő tartalom jelenik meg.
 
 Skót viccek
 --------------
