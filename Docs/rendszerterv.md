@@ -78,10 +78,6 @@ Tesztterv
 
 A tesztelések célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenőrzése, a rendszer által megvalósított üzleti szolgáltatások verifikálása.
 
-**Unite teszt:**
-
-Ahol csak lehetséges, szükséges már a fejlesztési idő alatt is tesztelni, hogy a metódusok megfelelően működnek-e. Ezért a metódusok megfelelő működésének biztosítására mindegyikhez írni kell Unit teszteket, a minél nagyobb kódlefedettséget szem előtt tartva. A metódusok akkor vannak kész, ha a tesztesetek hiba nélkül lefutnak az egyes metódusokon.
-
 **Alfa teszt:**
 
-A teszt elsődleges célja: az eddig meglévő funkcióknak a különböző böngészőkkel, és androidokkal való kompatibilitásának tesztelése. A tesztet a fejlesztők végzik. Az eljárás sikeres, ha különböző böngészőkben is megfelelően működnek a különböző funkciók.  A teszt időtartama egy hét.
+A teszt elsődleges célja: az eddig meglévő funkcióknak a különböző böngészőkkel való kompatibilitásának tesztelése. A tesztet a fejlesztők végzik. Az eljárás sikeres, ha különböző böngészőkben is megfelelően működnek a különböző funkciók.  A teszt elvégzése közben a fejlesztők a teszt jegyzőkönyvben le jegyzik a tesztek eredményét valamint azt, hogy milyen verzióju és nevű böngészőben végezték el az adott tesztet. A tesztek részletes menetét a teszt jegyzőkönyv tartalmazza.
