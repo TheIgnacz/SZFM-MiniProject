@@ -45,7 +45,7 @@ Elvárt viselkedés: Az állatos viccek szövegre kattintva az oldal betölti a 
 Valós viselkedés:
 - A állatos viccek szövegre kattintva az oldal az elvárt módon betölti a állatos vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: Az állatos viccek szövegre kattintva a megfelelő tartalom jelenik meg.
-- Google Chrome Verzió:
+- Google Chrome Verzió: A állatos viccek szövegre kattintva az oldal az elvárt módon betölti a állatos vicceket és megváltoztatja az oldal címét a megfelelőre.
 
 Skót viccek
 --------------
