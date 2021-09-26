@@ -47,7 +47,9 @@ Skót viccek
 
 Elvárt viselkedés: Az skót viccek szövegre kattintva az oldal betölti a skotviccek.json tartalmát, és megváltoztatja az oldal címét állatos viccekre.
 
-Valós viselkedés: A skót viccek szövegre kattintva az oldal az elvárt módon betölti a skót vicceket és megváltoztatja az oldal címét a megfelelőre.
+Valós viselkedés:
+- A skót viccek szövegre kattintva az oldal az elvárt módon betölti a skót vicceket és megváltoztatja az oldal címét a megfelelőre.
+- Microsoft Edge Verzió: 94.0.992.31: A skót viccek szövegre kattintva a megfelelő tartalom jelenik meg.
 
 Éjszaka háttér
 ------
