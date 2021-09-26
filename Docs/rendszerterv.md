@@ -77,6 +77,48 @@ Tesztterv
 
 A tesztelések célja a rendszer és komponensei funkcionalitásának teljes vizsgálata, ellenőrzése, a rendszer által megvalósított üzleti szolgáltatások verifikálása.
 
+**Manuális teszt:**
+
+##### Óra
+
+Elvárt viselkedés: Az óra a pontos időt mutatja, és folyamatosan frissül.
+
+##### Kezdőlap
+
+Elvárt viselkedés: A kezdőlap szövegre kattintva az oldal betölti a kazdolap.json tartalmát, és megváltozatja az oldal címét kezdőlapra.
+
+##### Rendőr viccek
+
+Elvárt viselkedés: A rendőr viccek szövegre kattintva az oldal betölti a rendorviccek.json tartalmát, és megváltoztatja az oldal címét rendőr viccekre.
+
+##### Gyerek viccek
+
+Elvárt viselkedés: A gyerek viccek szövegre kattintva az oldal betölti a gyerekviccek.json tartalmát, és megváltoztatja az oldal címét gyerek viccekre.
+
+##### Állatos viccek
+
+Elvárt viselkedés: Az állatos viccek szövegre kattintva az oldal betölti a allatosviccek.json tartalmát, és megváltoztatja az oldal címét állatos viccekre.
+
+##### Skót viccek
+
+Elvárt viselkedés: Az skót viccek szövegre kattintva az oldal betölti a skotviccek.json tartalmát, és megváltoztatja az oldal címét állatos viccekre.
+
+##### Éjszaka háttér
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az éjszaka hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
+##### Tenger háttér
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az tenger hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
+##### Hegyek háttér
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az hegyek hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
+##### Dombok háttér
+
+Elvárt viselkedés: A lenyílómenüből kiválasztva az dombok hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
+
 **Unite teszt:**
 
 Ahol csak lehetséges, szükséges már a fejlesztési idő alatt is tesztelni, hogy a metódusok megfelelően működnek-e. Ezért a metódusok megfelelő működésének biztosítására mindegyikhez írni kell Unit teszteket, a minél nagyobb kódlefedettséget szem előtt tartva. A metódusok akkor vannak kész, ha a tesztesetek hiba nélkül lefutnak az egyes metódusokon.
