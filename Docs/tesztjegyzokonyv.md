@@ -15,6 +15,7 @@ Elvárt viselkedés: A kezdőlap szövegre kattintva az oldal betölti a kazdola
 
 Valós viselkedés: 
 - Microsoft Edge Verzió: 94.0.992.31: A kezdőlap tartalma megfelelően jelenik mega az oldal betöltését követően és kezdőlap szövegre kattintva is a megfelelő tartalom töltődik be.
+- Google Chrome Verzió: A kezdőlap tartalma megfelelően jelenik mega az oldal betöltését követően és kezdőlap szövegre kattintva is a megfelelő tartalom töltődik be.
 
 Rendőr viccek
 -------------
@@ -24,6 +25,7 @@ Elvárt viselkedés: A rendőr viccek szövegre kattintva az oldal betölti a re
 Valós viselkedés:
 - A rendőr viccek szövegre kattintva az oldal az elvárt módon betölti a rendőr vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: A rendőr viccek szövegre kattintva az elvártaknak megfelelő tartalom jelenik meg. 
+- Google Chrome Verzió:
 
 Gyerek viccek
 -------------
@@ -33,6 +35,7 @@ Elvárt viselkedés: A gyerek viccek szövegre kattintva az oldal betölti a gye
 Valós viselkedés:
 - A gyerek viccek szövegre kattintva az oldal az elvárt módon betölti a gyerek vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: A gyerek viccek szövegre kattintva a megfelelő tartalom jelenik meg.
+- Google Chrome Verzió:
 
 Állatos viccek
 --------------
@@ -42,6 +45,7 @@ Elvárt viselkedés: Az állatos viccek szövegre kattintva az oldal betölti a 
 Valós viselkedés:
 - A állatos viccek szövegre kattintva az oldal az elvárt módon betölti a állatos vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: Az állatos viccek szövegre kattintva a megfelelő tartalom jelenik meg.
+- Google Chrome Verzió:
 
 Skót viccek
 --------------
@@ -51,6 +55,7 @@ Elvárt viselkedés: Az skót viccek szövegre kattintva az oldal betölti a sko
 Valós viselkedés:
 - A skót viccek szövegre kattintva az oldal az elvárt módon betölti a skót vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: A skót viccek szövegre kattintva a megfelelő tartalom jelenik meg.
+- Google Chrome Verzió:
 
 Éjszaka háttér
 ------
@@ -58,6 +63,7 @@ Valós viselkedés:
 Elvárt viselkedés:
 - A lenyílómenüből kiválasztva az éjszaka hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A éjszaka háttér megfeleően betölt alapértelmezett háttérként illetve a legördülő menüből kiválasztva majd a beállít gomra kattintva is megfelelően jelenik meg.
+- Google Chrome Verzió:
 
 Tenger háttér
 ------
@@ -65,6 +71,7 @@ Tenger háttér
 Elvárt viselkedés:
 - A lenyílómenüből kiválasztva az tenger hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A tenger háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik
+- Google Chrome Verzió:
 
 Hegyek háttér
 ------
@@ -72,6 +79,7 @@ Hegyek háttér
 Elvárt viselkedés: 
 - A lenyílómenüből kiválasztva az hegyek hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A hegyek háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik
+- Google Chrome Verzió:
 
 Dombok háttér
 ------
@@ -79,3 +87,4 @@ Dombok háttér
 Elvárt viselkedés:
 - A lenyílómenüből kiválasztva az dombok hátteret és a beállít gombra kattintva a háttér megváltozik a megfelelő háttére, és a szöveg jól olvasható.
 - Microsoft Edge Verzió: 94.0.992.31: A dombok háttért kiválasztva a menüből valamint a beállít gombra kattintva a háttér az elvárnak megfelelően változik
+- Google Chrome Verzió:
