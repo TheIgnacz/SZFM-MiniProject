@@ -1,6 +1,10 @@
 
 # Követelményspecifikáció
 
+Áttekintés
+----------
+Egy olyan weboldalt fejlesztünk, ami segít az embereknek gyors kikapcsolódást nyújtani, valamint a hátteret is testre tudjuk majd szabni. Az oldal ingyenes lesz, és nem fog igényelni regisztrációt.
+
 Jelenlegi helyzet leírása
 ----
 A mai világban rengeteg vicc található az interneten, de ezek szétvannak szótva küldönböző weboldalakon, ahol néha még nincsenek kategorizálva se. Ezért ha valaki specifikus viccet akar találni, akkor problémákba ütközhet. Illetve sok esetben a viccoldalak háttere is nagyon egyszerű és unalmas.
