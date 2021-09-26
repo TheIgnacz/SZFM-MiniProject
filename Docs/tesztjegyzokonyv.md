@@ -25,7 +25,7 @@ Elvárt viselkedés: A rendőr viccek szövegre kattintva az oldal betölti a re
 Valós viselkedés:
 - A rendőr viccek szövegre kattintva az oldal az elvárt módon betölti a rendőr vicceket és megváltoztatja az oldal címét a megfelelőre.
 - Microsoft Edge Verzió: 94.0.992.31: A rendőr viccek szövegre kattintva az elvártaknak megfelelő tartalom jelenik meg. 
-- Google Chrome Verzió:
+- Google Chrome Verzió: A rendőr viccek szövegre kattintva az oldal az elvárt módon betölti a rendőr vicceket és megváltoztatja az oldal címét a megfelelőre
 
 Gyerek viccek
 -------------
