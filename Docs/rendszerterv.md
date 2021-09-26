@@ -3,8 +3,7 @@
 A rendszer célja
 ---
 
-Jelenleg a interneten és vicc könyvekben rengeteg jó vicc megtalálható, ám ezek megtalálása nem feltétlenül könnyű folyamat. A cél egy olyan weboldal létrehozása amegy bárki számára elérhető a neten. A felhasználó kategóriánként tud keresni a viccek között, like-olni tudja az egyes vicceket melyek ekkor bekerülnek a felhasználó kedvencei közé melyeket szintén meg tud nézni. A viccek közti bőngészéskor a felhasználó látja, hogy egy vicc hány like-ot kapott.
-
+Jelenleg a interneten és vicc könyvekben rengeteg jó vicc megtalálható, ám ezek megtalálása nem feltétlenül könnyű folyamat. A cél egy olyan weboldal létrehozása amegy bárki számára elérhető a neten. A felhasználó kategóriánként tud keresni a viccek között.
 Projektterv
 -----------
 
@@ -41,9 +40,6 @@ Követelmények
 ---
 - Viccek tárolása.
 - Viccek kategóriába rendezése.
-- Viccek like-jainak számontartása.
-- Felhasználók számontartása.
-- A kedven viccek számontartása felhasználónként.
 - A GDPR-nek való megfelelés.
 
 Adatbázis terv
@@ -75,6 +71,7 @@ Fogalmak:
 -   HTML: A HTML (angolul: HyperText Markup Language) egy leíró nyelv, melyet weboldalak készítéséhez fejlesztettek ki, és mára már internetes szabvánnyá vált a W3C támogatásával. Az aktuális változata az 5, ezt a verziót használjuk mi is.
 -   CSS: A CSS (_Cascading Style Sheets_) egy stílusleíró nyelv, mely a HTML vagy XHTML típusú strukturált dokumentumok megjelenését írja le. Weblapunk stílusát ezzel készítjük el.
 -   JavaScript: A JavaScript programozási nyelv egy objektumorientált, prototípus-alapú szkriptnyelv, amelyet weboldalakon elterjedten használnak. A weblapunk programozásához lesz szükségünk rá.
+
 Tesztterv
 ---
 
