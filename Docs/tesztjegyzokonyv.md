@@ -12,6 +12,9 @@ Kezdőlap
 
 Elvárt viselkedés: A kezdőlap szövegre kattintva az oldal betölti a kazdolap.json tartalmát, és megváltozatja az oldal címét kezdőlapra.
 
+Valós viselkedés: 
+- Microsoft Edge Verzió: 94.0.992.31: A kezdőlap tartalma megfelelően jelenik mega az oldal betöltését követően és kezdőlap szövegre kattintva is a megfelelő tartalom töltődik be.
+
 Rendőr viccek
 -------------
 
