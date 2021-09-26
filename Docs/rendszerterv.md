@@ -4,6 +4,7 @@ A rendszer célja
 ---
 
 Jelenleg a interneten és vicc könyvekben rengeteg jó vicc megtalálható, ám ezek megtalálása nem feltétlenül könnyű folyamat. A cél egy olyan weboldal létrehozása amegy bárki számára elérhető a neten. A felhasználó kategóriánként tud keresni a viccek között.
+
 Projektterv
 -----------
 
